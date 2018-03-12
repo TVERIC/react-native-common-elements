@@ -1,4 +1,5 @@
-import React, {Component, PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import React, { Component } from 'react';
 import ReactNative, {Dimensions, View, TouchableOpacity, StyleSheet} from 'react-native';
 import em from './em';
 import merge from './merge';
